@@ -1,5 +1,7 @@
 PBKDF2 for Python
 
+Works with at least Python 2.7 on Linux, and PyInstaller can turn it into a Windows executable.
+
 Unlike bcrypt this is easy to understand, secure enough given a cryptographically
 random salt and implemented on top of the stdlib in about 20 lines of code.
 Also easy to understand and analyze.

@@ -2,6 +2,6 @@ PBKDF2 for Python
 
 Works with at least Python 2.7 on Linux, and PyInstaller can turn it into a Windows executable.
 
-To run, you'll need to download Python 2.x - you can get this from http://www.python.org/download/ for Windows and MacOS
+To run, you'll need to download Python 2.x - you can get this from http://www.python.org/download/ for Windows and MacOS, or with something like "sudo apt-get install python" for Debian Linux.
 
 
